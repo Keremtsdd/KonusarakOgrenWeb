@@ -1,6 +1,6 @@
 # React + Vite
 
-### Bu Projei Bilgisayarınızda Çalıstırmak İçin Aşşğıdaki Adımları Takip Ediniz.
+### Bu projeyi bilgisayarınızda çalıştırmak için aşağıdaki adımları takip ediniz.
 
 ```bash
 # Gerekli bağımlılıkları yükleyin
